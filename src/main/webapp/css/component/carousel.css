@@ -1,0 +1,15 @@
+.carousel-item{
+    height: auto;
+    background-color: red;
+
+
+}
+
+.carousel_custom{
+    //background-color: green;
+    width: 50%;
+    border-radius: 20px;
+    margin-left: 35%;
+    //height: 21.5em;
+
+}

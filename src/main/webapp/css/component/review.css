@@ -1,0 +1,25 @@
+.container_review {
+    display: flex;
+
+}
+
+.info_review {
+
+    text-align: center;
+}
+
+.description_review {
+   // background-color: green;
+
+}
+
+.nickname_review {
+    //background-color: yellow;
+    margin-top: 100px;
+    color: yellow;
+}
+
+.date_review {
+    //background-color: grey;
+    color: green;
+}

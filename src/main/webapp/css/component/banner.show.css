@@ -1,0 +1,27 @@
+.element_banner{
+    height: 550px;
+    width: 100%;
+    background-size: contain;
+    //background-color: yellow;
+    background-repeat: no-repeat;
+    background-image: url("https://gaming-cdn.com/img/products/9579/hcover/9579.jpg?v=1706278234");
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+
+.element_banner:after {
+    bottom: -12px;
+}
+
+.element_banner:after {
+    background: #272727;
+    bottom: -1px;
+    clip-path: polygon(0 100%,100% 100%,0 0);
+    content: "";
+    height: 60px;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+}

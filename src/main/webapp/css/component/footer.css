@@ -1,0 +1,55 @@
+.contact {
+    margin-top: 150px;
+    height: 300px;
+    width: 100%;
+    border-top: medium solid orange;
+
+
+
+   // background: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ima_trust {
+    height: 50px;
+    width: auto;
+
+
+}
+
+
+.logo {
+    //background-color: red;
+   // background-color: black;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.contact_text{
+   // background-color: grey;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+
+.logo_contact{
+   // background-color: blue;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5%;
+}
+

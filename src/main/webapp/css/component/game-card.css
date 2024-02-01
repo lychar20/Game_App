@@ -1,0 +1,86 @@
+.main-game-card {
+    text-decoration: none;
+    color: #fff;
+}
+
+.main-game-card:hover {
+    color: #ff5400;
+}
+
+.game-card {
+    width: 100%;
+    height: 250px;
+}
+
+.game-card-img {
+    width: 75%;
+    height: 90%;
+    background-size: cover;
+    border-radius: 10px;
+
+}
+
+
+
+.game-card-img img {
+    width: 80%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+
+
+.review-card_id {
+    height: 85%;
+    width: 35%;
+//margin-bottom: 70px;
+}
+
+.text-review{
+//padding-bottom: 100px;
+    width: 55%;
+
+}
+
+
+/*.main-game-card {*/
+/*    text-decoration: none;*/
+/*    color: #fff;*/
+/*}*/
+
+/*.main-game-card:hover {*/
+/*    color: #ff5400;*/
+/*}*/
+
+/*.game-card {*/
+/*    width: 100%;*/
+/*    height: 230px;*/
+/*}*/
+
+/*.game-card p {*/
+/*    margin-bottom: 0;*/
+/*}*/
+
+/*.game-card-img {*/
+/*    width: 100%;*/
+/*    height: 80%;*/
+/*}*/
+
+/*.game-card-img img {*/
+/*    width: 100%;*/
+/*    height: 100%;*/
+/*    object-fit: cover;*/
+/*    border-radius: 0.5em;*/
+/*}*/
+
+.container-img {
+    width: 100%;
+    height: 400px;
+}
+
+.container-img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
